@@ -19,7 +19,7 @@ You can download Serena Reasoning Builder from [https://www.neurallead.com](http
 
 This tutorial takes you through the **Visual Environment** of Serena Reasoning Builder:
 
-Follow tutorial on [ytbe.com](https://youtu.be/md7XDj8-OsE)
+Follow tutorial on [youtube.com](https://youtu.be/md7XDj8-OsE)
 
 ## 📂 Project Files
 
