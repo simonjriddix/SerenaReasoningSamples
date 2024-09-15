@@ -1,0 +1,82 @@
+<Project
+	xmlns="http://schemas.datacontract.org/2004/07/NetPrints.Core"
+	xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+	<ClassPaths
+		xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+		<a:string>SerenaReasoning.Program.classsrb</a:string>
+	</ClassPaths>
+	<CompilationOutput>All</CompilationOutput>
+	<DefaultNamespace>SerenaReasoning</DefaultNamespace>
+	<LastCompiledAssemblyPath></LastCompiledAssemblyPath>
+	<Name>MyProject</Name>
+	<OutputBinaryType>Executable</OutputBinaryType>
+	<Packages
+		xmlns:a="http://schemas.datacontract.org/2004/07/NetPrints.Models">
+		<a:PackageInfo>
+			<a:Id>WhatsappBusiness.CloudApi</a:Id>
+			<a:Version>1.0.37</a:Version>
+		</a:PackageInfo>
+		<a:PackageInfo>
+			<a:Id>cdmdotnet.Logging</a:Id>
+			<a:Version>1.2.104.81</a:Version>
+		</a:PackageInfo>
+	</Packages>
+	<ProjectVersion
+		xmlns:a="http://schemas.datacontract.org/2004/07/System">
+		<a:_Build>0</a:_Build>
+		<a:_Major>1</a:_Major>
+		<a:_Minor>0</a:_Minor>
+		<a:_Revision>0</a:_Revision>
+	</ProjectVersion>
+	<References>
+		<CompilationReference i:type="FrameworkAssemblyReference">
+			<AssemblyPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework/v4.8.1/mscorlib.dll</AssemblyPath>
+			<frameworkRelativePath>.NETFramework/v4.8.1/mscorlib.dll</frameworkRelativePath>
+		</CompilationReference>
+		<CompilationReference i:type="FrameworkAssemblyReference">
+			<AssemblyPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework/v4.8.1/System.dll</AssemblyPath>
+			<frameworkRelativePath>.NETFramework/v4.8.1/System.dll</frameworkRelativePath>
+		</CompilationReference>
+		<CompilationReference i:type="FrameworkAssemblyReference">
+			<AssemblyPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework/v4.8.1/System.Core.dll</AssemblyPath>
+			<frameworkRelativePath>.NETFramework/v4.8.1/System.Core.dll</frameworkRelativePath>
+		</CompilationReference>
+		<CompilationReference i:type="FrameworkAssemblyReference">
+			<AssemblyPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework/v4.8.1/System.Data.dll</AssemblyPath>
+			<frameworkRelativePath>.NETFramework/v4.8.1/System.Data.dll</frameworkRelativePath>
+		</CompilationReference>
+		<CompilationReference i:type="FrameworkAssemblyReference">
+			<AssemblyPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework/v4.8.1/System.Net.dll</AssemblyPath>
+			<frameworkRelativePath>.NETFramework/v4.8.1/System.Net.dll</frameworkRelativePath>
+		</CompilationReference>
+		<CompilationReference i:type="FrameworkAssemblyReference">
+			<AssemblyPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework/v4.8.1/System.Net.Http.dll</AssemblyPath>
+			<frameworkRelativePath>.NETFramework/v4.8.1/System.Net.Http.dll</frameworkRelativePath>
+		</CompilationReference>
+		<CompilationReference i:type="FrameworkAssemblyReference">
+			<AssemblyPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework/v4.8.1/System.Net.Http.WebRequest.dll</AssemblyPath>
+			<frameworkRelativePath>.NETFramework/v4.8.1/System.Net.Http.WebRequest.dll</frameworkRelativePath>
+		</CompilationReference>
+		<CompilationReference i:type="FrameworkAssemblyReference">
+			<AssemblyPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework/v4.8.1/System.Web.dll</AssemblyPath>
+			<frameworkRelativePath>.NETFramework/v4.8.1/System.Web.dll</frameworkRelativePath>
+		</CompilationReference>
+		<CompilationReference i:type="FrameworkAssemblyReference">
+			<AssemblyPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework/v4.8.1/System.Data.Linq.dll</AssemblyPath>
+			<frameworkRelativePath>.NETFramework/v4.8.1/System.Data.Linq.dll</frameworkRelativePath>
+		</CompilationReference>
+		<CompilationReference i:type="AssemblyReference">
+			<AssemblyPath>Newtonsoft.Json.dll</AssemblyPath>
+		</CompilationReference>
+		<CompilationReference i:type="AssemblyReference">
+			<AssemblyPath>SerenaAPI.dll</AssemblyPath>
+		</CompilationReference>
+	</References>
+	<SaveVersion
+		xmlns:a="http://schemas.datacontract.org/2004/07/System">
+		<a:_Build>9</a:_Build>
+		<a:_Major>2024</a:_Major>
+		<a:_Minor>9</a:_Minor>
+		<a:_Revision>0</a:_Revision>
+	</SaveVersion>
+</Project>
