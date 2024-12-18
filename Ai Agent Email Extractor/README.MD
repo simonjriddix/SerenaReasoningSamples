@@ -1,0 +1,1 @@
+Create a new project with Serena Reasoning builder and import the class file SerenaReasoning.MyClass.classsrb
